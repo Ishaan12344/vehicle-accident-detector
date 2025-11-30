@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# VS Code / Cursor
+.vscode/
+.history/
+
+# Gradio / Ultralytics / runs
+runs/
+ultralytics/
+
+# App outputs
+outputs/
+*.csv
+*.mp4
+*.avi
+
+# System
+.DS_Store
+Thumbs.db
